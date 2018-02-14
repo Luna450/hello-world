@@ -1,6 +1,13 @@
-# hello-world
-Just another repository
+!Doctype HTML
+ <html> 
+  <title># hello-world
+  Just another repository
+  </title>
 
-Hello Earthlings!!
 
-I'm Cii blot. I come from Cii Starfire. I'm make of C++ and Chocolate. Yumm, but pls don't eat me!! :P
+  <body>
+    <h1>Hello Earthlings!!</h1>
+    <p> I'm Cii blot. I come from Cii Starfire. I'm make of C++ and Chocolate. Yumm, but pls don't eat me!! :P </p>
+
+  </body>
+</html>
